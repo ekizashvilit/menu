@@ -4,4 +4,4 @@
 
 ## Links
 
-- Live Site URL: [Vegan Menu](https://ekizashvilit.github.io/menu-react/)
+- Live Site URL: [Vegan Menu](https://elaborate-manatee-2edc2f.netlify.app/)
